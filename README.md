@@ -140,10 +140,10 @@ exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCC
 exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")
 -->
 <p align="center">
+	<a href="https://t.me/Amirupasandul1-lboeaueg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 	<a href="https://www.youtube.com/channel/UCSMEWKgU8LMczGkop8k2wdw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Cyber Technology-red?style=for-the-badge&logo=Youtube"></a>
-	<a href="https://t.me/Amirupasandul1-lboeaueg"><img title="Telegram" src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=Telegram"></a>
-	<a href="https://www.facebook.com/amiru.tikka/"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
-	<a href="https://wa.me/+94750533989"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp"></a>
+	<a href="https://www.facebook.com/amiru.tikka/"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+	<a href="https://wa.me/+94750533989"><img title="Whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=for-the-badge&logo=Whatsapp"></a>
 </p>
 <!--exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")
 exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCCccHFCGVGGCDSGCVCVGCVSCCDGCCVCCVHVVCCVCCGCVCDCVCGCGCVSHCGVCVDSGCCVSCGVCGSVCGCGVCDGCVCGVCGDCCCVCGCCVGCVSDSGCCGCVDJSCHJVCCGCVCCHCVCCSDVCJCVSJHVCBHVSHJVCSCVCVCVJCVJVCJHCVCSCVHCCSHCVSCVHCVSHCHVHCVCVCVCG")
@@ -1379,20 +1379,16 @@ exec(base64.b64decode('vsbbsfsdffjfbshdfhsdbfhsfHHhvhVvVVHvvMchCHGcfCttxXFCgCcCC
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-<p align="center">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amirupasandul11)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/amirupasandul2/)
-
-<p>
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
 
 &nbsp;
 - 👨🏽‍💻 HELLO I’m Amiru Pasandul ;
 - 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++  ; 
-- ⚡️ I’m looking to collaborate on [Cyber Technology](https://t.me/Amirupasandul1) 🤝;
-- ⚡️ Watch My Programming Tutorials [SL-Android](https://www.youtube.com/channel/UCSMEWKgU8LMczGkop8k2wdw) ;
+- ⚡️ I’m looking to collaborate on [Amiru Pasandul](https://t.me/Amirupasandul1) 🤝;
+- ⚡️ Watch My Programming Tutorials [Cyber Technology](https://www.youtube.com/channel/UCSMEWKgU8LMczGkop8k2wdw) ;
 - 🤔 I’m looking for New programming methord;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
