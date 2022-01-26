@@ -4,47 +4,11 @@ This is a Simple tool for github users.you can create professional README.md fil
 
 
 
-## Command list👇👇
-
-> pkg update && pkg upgrade
-
-> pkg install git
-
-> pkg install figlet
-
-> pkg install lolcat
-
-
-> git clone https://github.com/RazorKenway/README-Generator.git
-
-> cd README-Generator
-
-> python requirements.py      (this file install only one time )
-
-> python readmeGEN.py
-
-
-### Razor Kenway
-
-
-### video Lesson here : https://youtu.be/cbJRQR4YrY4
-
-<hr colour="Red">
-
-<img src="README-Generator.png" size ="15">
-
-<br>
-
-## Join with us 😎
-
-<a href="https://www.facebook.com/groups/277920623081269/?ref=share">Facebook Group </a>
-
-<a href="https://www.facebook.com/SLAndroidD/">Facebook page </a>
-
-<a href="https://www.youtube.com/c/SLAndroid"> SL Android On Youtube  </a>
-
-<a href="https://t.me/joinchat/MaJux1c8gdMW2GSqCpEBxQ"> Telegram Group </a>
-
-<hr colour="Red" size="10">
-
-
+👋 Hi, I’m Amiru pasandul.
+👀 I’m interested in Cyber Security.
+🌱 I’m currently learning Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++ ;
+💞️ I’m looking for New programming methord;
+💬 Ask me about anything, I am happy to help;
+⚡️ I'm Still Student;
+📫 How to reach me : amirupasandul11@gmail.com
+📫 Please Subscribe Our Channel : https://www.youtube.com/channel/UCSMEWKgU8LMczGkop8k2wdw
