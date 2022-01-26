@@ -1,9 +1,3 @@
-# README-Generator
-This is a Simple tool for github users.you can create professional README.md file for your repository..
-
-
-
-
 👋 Hi, I’m Amiru pasandul.
 👀 I’m interested in Cyber Security.
 🌱 I’m currently learning Python , Linux , Shell , Html , PHP , Java , JS , CSS , C++ ;
